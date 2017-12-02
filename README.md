@@ -4,7 +4,7 @@
 ![Tree model](images/colored_model.png?raw=true "Tree model")
 
 
-##Features
+## Features
 * Generating the crown using the Marching Cubes algorithms (blobs)
 * Written in C using Glut
 * Randomizing parameters for trunk
